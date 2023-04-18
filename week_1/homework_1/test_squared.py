@@ -1,5 +1,5 @@
 import unittest
-from nums_squared import numbers_added_and_squared
+from square_matlin.nums_squared import numbers_added_and_squared
 
 
 class PackageTests(unittest.TestCase):
