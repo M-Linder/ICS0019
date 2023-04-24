@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ics0019.iml" filepath="$PROJECT_DIR$/.idea/ics0019.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../sql_project/.idea/sql_project.iml" filepath="$PROJECT_DIR$/../../sql_project/.idea/sql_project.iml" />
     </modules>
   </component>
 </project>
